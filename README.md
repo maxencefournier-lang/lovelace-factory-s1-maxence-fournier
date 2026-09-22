@@ -1,1 +1,0 @@
-# lovelace-factory-s1-maxence-fournier
