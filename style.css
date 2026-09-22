@@ -1,0 +1,164 @@
+/* =========================================
+   EXERCICE 2 — Mise en page avec CSS
+   Lovelace Factory
+   =========================================
+   Lis les commentaires et complète chaque section.
+   Ouvre le navigateur pour voir le résultat en direct.
+   ========================================= */
+
+
+/* -----------------------------------------
+   1. RESET ET BASE
+   - box-sizing: border-box sur tous les éléments
+   - Supprime marges et paddings par défaut
+   - Choisis une police lisible (font-family)
+   - Couleur de texte et fond sur body
+----------------------------------------- */
+* {
+  /* à compléter */
+}
+
+body {
+  /* à compléter */
+}
+
+
+/* -----------------------------------------
+   2. HEADER ET NAVIGATION
+   - Couleur de fond sur header
+   - Aligne les liens horizontalement (flexbox sur nav)
+   - Espace entre les liens
+   - Stylise les liens : couleur, pas de soulignement
+   - Effet hover
+----------------------------------------- */
+header {
+  /* à compléter */
+}
+
+nav {
+  /* à compléter */
+}
+
+nav a {
+  /* à compléter */
+}
+
+nav a:hover {
+  /* à compléter */
+}
+
+
+/* -----------------------------------------
+   3. SECTION HERO
+   - Centre le contenu
+   - Fond coloré + padding
+   - Stylise h1 et .accroche
+----------------------------------------- */
+.hero {
+  /* à compléter */
+}
+
+.hero h1 {
+  /* à compléter */
+}
+
+.hero .accroche {
+  /* à compléter */
+}
+
+
+/* -----------------------------------------
+   4. BOUTON PRINCIPAL
+   - Fond coloré, couleur texte, padding, border-radius
+   - Supprime le soulignement (c'est un <a>)
+   - Effet hover
+----------------------------------------- */
+.bouton-principal {
+  /* à compléter */
+}
+
+.bouton-principal:hover {
+  /* à compléter */
+}
+
+
+/* -----------------------------------------
+   5. SECTION FONCTIONNALITÉS
+   - Padding sur la section
+   - Stylise h2
+   - Supprime les puces par défaut de .liste-features
+   - Ajoute un indicateur visuel sur les li
+----------------------------------------- */
+.fonctionnalites {
+  /* à compléter */
+}
+
+.fonctionnalites h2 {
+  /* à compléter */
+}
+
+.liste-features {
+  /* à compléter */
+}
+
+.liste-features li {
+  /* à compléter */
+}
+
+
+/* -----------------------------------------
+   6. SECTION ÉQUIPE
+   - Fond légèrement différent
+   - Image responsive (max-width: 100%)
+   - Centre le contenu
+----------------------------------------- */
+.equipe {
+  /* à compléter */
+}
+
+.equipe img {
+  /* à compléter */
+}
+
+
+/* -----------------------------------------
+   7. FORMULAIRE DE CONTACT
+   - Champs en colonne (display: flex + flex-direction: column)
+   - max-width sur le form
+   - Labels en gras avec espacement
+   - Inputs et textarea : width 100%, padding, bordure
+   - Stylise le bouton submit
+----------------------------------------- */
+.contact {
+  /* à compléter */
+}
+
+.contact form {
+  /* à compléter */
+}
+
+.contact label {
+  /* à compléter */
+}
+
+.contact input,
+.contact textarea {
+  /* à compléter */
+}
+
+.contact textarea {
+  /* ajoute une hauteur min */
+}
+
+.contact button {
+  /* à compléter */
+}
+
+
+/* -----------------------------------------
+   8. FOOTER
+   - Fond sombre, texte clair, centré, padding
+----------------------------------------- */
+footer {
+  /* à compléter */
+}
